@@ -1,0 +1,4 @@
+#Mon Dec 19 17:30:15 UZT 2022
+base.0=/Users/test/Desktop/new/ui/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
